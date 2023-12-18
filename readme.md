@@ -19,8 +19,15 @@
   <!-- Project 3: Quiz App -->
   <div style="margin: 10px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);">
     <h2>Project 3: Quiz App</h2>
-    <img src="https://raw.githubusercontent.com/Avii1099/javascriptProject/master/projectImages/quiz.png" alt="To-Do App" style="width: 300px; height: 200px; object-fit: cover;">
+    <img src="https://raw.githubusercontent.com/Avii1099/javascriptProject/master/projectImages/quiz.png" alt="Quiz App" style="width: 300px; height: 200px; object-fit: cover;">
     <p>Quiz App</p>
+  </div>
+
+  <!-- Project 4: Notes App -->
+  <div style="margin: 10px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);">
+    <h2>Project 4: Notes App</h2>
+    <img src="https://raw.githubusercontent.com/Avii1099/javascriptProject/master/projectImages/notes.png" alt="Notes App" style="width: 300px; height: 200px; object-fit: cover;">
+    <p>Notes App</p>
   </div>
   
   <!-- Additional projects can be added here -->
